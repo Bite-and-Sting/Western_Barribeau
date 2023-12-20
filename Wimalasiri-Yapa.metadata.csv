@@ -1,0 +1,70 @@
+﻿Sample Name,Host Genome,Sample Type,Nucleotide Type,Collection Date,Collection Location,Known Organism,Water Control,Host Sex,Age at infection (days),RNA Extraction Time Post Exposure (days),Temperature Treatment (C),Diseases and Conditions,Infection Class,Treatment code
+SRR11715726,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,32,Chikungunya,Denfinite,Ch.32.3
+SRR11715727,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,18,Chikungunya,Denfinite,Ch.18.3
+SRR11715729,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,32,Chikungunya,Denfinite,Ch.32.3
+SRR11715730,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,32,Chikungunya,Denfinite,Ch.32.3
+SRR11715731,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,32,Control,No infection,Co.32.7
+SRR11715732,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,32,Control,No infection,Co.32.7
+SRR11715733,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,32,Chikungunya,Denfinite,Ch.32.3
+SRR11715734,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,32,Control,No infection,Co.32.7
+SRR11715735,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,32,Control,No infection,Co.32.7
+SRR11715736,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,32,Control,No infection,Co.32.7
+SRR11715737,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,32,Control,No infection,Co.32.7
+SRR11715738,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,28,Control,No infection,Co.28.7
+SRR11715739,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,28,Control,No infection,Co.28.7
+SRR11715740,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,28,Control,No infection,Co.28.7
+SRR11715741,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,28,Control,No infection,Co.28.7
+SRR11715742,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,28,Control,No infection,Co.28.7
+SRR11715743,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,28,Control,No infection,Co.28.7
+SRR11715744,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,32,Chikungunya,Denfinite,Ch.32.3
+SRR11715745,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,28,Control,No infection,Co.28.7
+SRR11715746,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,18,Control,No infection,Co.18.7
+SRR11715747,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,18,Control,No infection,Co.18.7
+SRR11715748,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,18,Control,No infection,Co.18.7
+SRR11715749,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,18,Control,No infection,Co.18.7
+SRR11715750,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,18,Control,No infection,Co.18.7
+SRR11715751,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,28,Control,No infection,Co.28.3
+SRR11715752,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,28,Control,No infection,Co.28.3
+SRR11715753,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,28,Control,No infection,Co.28.3
+SRR11715754,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,28,Control,No infection,Co.28.3
+SRR11715755,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,18,Chikungunya,Denfinite,Ch.18.3
+SRR11715756,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,28,Control,No infection,Co.28.3
+SRR11715757,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,28,Control,No infection,Co.28.3
+SRR11715758,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,32,Control,No infection,Co.32.3
+SRR11715759,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,32,Control,No infection,Co.32.3
+SRR11715760,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,32,Control,No infection,Co.32.3
+SRR11715761,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,32,Control,No infection,Co.32.3
+SRR11715762,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,32,Control,No infection,Co.32.3
+SRR11715763,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,32,Control,No infection,Co.32.3
+SRR11715764,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,18,Control,No infection,Co.18.3
+SRR11715765,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,18,Control,No infection,Co.18.3
+SRR11715766,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,18,Chikungunya,Denfinite,Ch.18.3
+SRR11715767,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,18,Control,No infection,Co.18.3
+SRR11715768,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,18,Control,No infection,Co.18.3
+SRR11715769,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,18,Control,No infection,Co.18.3
+SRR11715770,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,18,Control,No infection,Co.18.3
+SRR11715771,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,28,Chikungunya,Denfinite,Ch.28.7
+SRR11715773,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,28,Chikungunya,Denfinite,Ch.28.7
+SRR11715774,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,28,Chikungunya,Denfinite,Ch.28.7
+SRR11715775,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,28,Chikungunya,Denfinite,Ch.28.7
+SRR11715776,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,28,Chikungunya,Denfinite,Ch.28.7
+SRR11715777,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,18,Chikungunya,Denfinite,Ch.18.3
+SRR11715778,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,32,Chikungunya,Denfinite,Ch.32.7
+SRR11715779,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,32,Chikungunya,Denfinite,Ch.32.7
+SRR11715780,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,32,Chikungunya,Denfinite,Ch.32.7
+SRR11715782,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,32,Chikungunya,Denfinite,Ch.32.7
+SRR11715783,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,32,Chikungunya,Denfinite,Ch.32.7
+SRR11715784,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,18,Chikungunya,Denfinite,Ch.18.7
+SRR11715785,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,18,Chikungunya,Denfinite,Ch.18.7
+SRR11715786,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,18,Chikungunya,Denfinite,Ch.18.7
+SRR11715787,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,18,Chikungunya,Denfinite,Ch.18.7
+SRR11715788,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,18,Chikungunya,Denfinite,Ch.18.3
+SRR11715789,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,18,Chikungunya,Denfinite,Ch.18.7
+SRR11715790,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,7,18,Chikungunya,Denfinite,Ch.18.7
+SRR11715791,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,28,Chikungunya,Denfinite,Ch.28.3
+SRR11715792,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,28,Chikungunya,Denfinite,Ch.28.3
+SRR11715793,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,28,Chikungunya,Denfinite,Ch.28.3
+SRR11715794,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,28,Chikungunya,Denfinite,Ch.28.3
+SRR11715795,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,28,Chikungunya,Denfinite,Ch.28.3
+SRR11715796,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,28,Chikungunya,Denfinite,Ch.28.3
+SRR11715797,Mosquito,Midgut,RNA,07/31/20,"Hammond Island, Torres Strait, Australia",Aedes aegypti,No,Female,6,3,32,Chikungunya,Denfinite,Ch.32.3

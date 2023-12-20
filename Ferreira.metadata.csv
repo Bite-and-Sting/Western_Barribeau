@@ -1,0 +1,145 @@
+Sample Name,Host Genome,Sample Type,Nucleotide Type,Collection Date,Collection Location,Known Organism,Water Control,Host Sex,Age at infection (days),Temperature Treatment (C),Diseases and Conditions,Infection Class,RNA Extraction Time Post Exposure (hours),Technical Replicate,all-treatment,inf-temp
+SRR11440601,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,24,T3,C-24-36,C-36
+SRR11440602,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,48,T1,C-48-36,C-36
+SRR11440603,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,48,T1,C-48-36,C-36
+SRR11440604,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,48,T1,C-48-36,C-36
+SRR11440605,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,48,T1,C-48-36,C-36
+SRR11440606,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,48,T1,Z-48-36,Z-36
+SRR11440607,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,48,T2,C-48-36,C-36
+SRR11440608,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,48,T2,C-48-36,C-36
+SRR11440609,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,48,T2,C-48-36,C-36
+SRR11440610,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,48,T2,C-48-36,C-36
+SRR11440611,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,48,T3,C-48-36,C-36
+SRR11440612,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,48,T3,C-48-36,C-36
+SRR11440613,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,48,T3,C-48-36,C-36
+SRR11440614,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,48,T3,C-48-36,C-36
+SRR11440615,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,24,T1,Z-24-20,Z-20
+SRR11440616,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,24,T1,Z-24-20,Z-20
+SRR11440617,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,48,T2,Z-48-36,Z-36
+SRR11440618,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,24,T1,Z-24-20,Z-20
+SRR11440619,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,24,T1,Z-24-20,Z-20
+SRR11440620,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,24,T2,Z-24-20,Z-20
+SRR11440621,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,24,T1,Z-24-20,Z-20
+SRR11440622,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,24,T2,Z-24-20,Z-20
+SRR11440623,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,24,T2,Z-24-20,Z-20
+SRR11440624,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,24,T3,Z-24-20,Z-20
+SRR11440625,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,24,T3,Z-24-20,Z-20
+SRR11440626,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,24,T3,Z-24-20,Z-20
+SRR11440627,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,24,T3,Z-24-20,Z-20
+SRR11440628,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,48,T2,Z-48-36,Z-36
+SRR11440629,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,48,T1,Z-48-20,Z-20
+SRR11440630,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,48,T1,Z-48-20,Z-20
+SRR11440631,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,48,T1,Z-48-20,Z-20
+SRR11440632,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,48,T1,Z-48-20,Z-20
+SRR11440633,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,48,T2,Z-48-20,Z-20
+SRR11440634,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,48,T2,Z-48-20,Z-20
+SRR11440635,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,48,T2,Z-48-20,Z-20
+SRR11440636,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,48,T2,Z-48-20,Z-20
+SRR11440637,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,48,T1,Z-48-20,Z-20
+SRR11440638,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,48,T3,Z-48-20,Z-20
+SRR11440639,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,48,T2,Z-48-36,Z-20
+SRR11440640,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,48,T3,Z-48-20,Z-20
+SRR11440641,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Zika,Definite,48,T3,Z-48-20,Z-20
+SRR11440642,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,24,T1,Z-24-28,Z-28
+SRR11440643,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,24,T1,Z-24-28,Z-28
+SRR11440644,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,24,T1,Z-24-28,Z-28
+SRR11440645,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,24,T1,Z-24-28,Z-28
+SRR11440646,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,24,T2,Z-24-28,Z-28
+SRR11440647,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,24,T2,Z-24-28,Z-28
+SRR11440648,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,24,T2,Z-24-28,Z-28
+SRR11440649,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,48,T3,C-48-28,C-28
+SRR11440650,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,48,T3,C-48-28,C-28
+SRR11440651,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,48,T3,C-48-28,C-28
+SRR11440652,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,48,T3,C-48-28,C-28
+SRR11440653,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,24,T1,C-24-36,C-36
+SRR11440654,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,24,T1,C-24-36,C-36
+SRR11440655,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,24,T1,C-24-36,C-36
+SRR11440656,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,24,T1,C-24-36,C-36
+SRR11440657,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,24,T2,C-24-36,C-36
+SRR11440658,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,24,T2,C-24-36,C-36
+SRR11440659,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,48,T1,Z-48-36,Z-36
+SRR11440660,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,24,T2,C-24-36,C-36
+SRR11440661,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,24,T2,C-24-36,C-36
+SRR11440662,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,24,T3,C-24-36,C-36
+SRR11440663,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,24,T3,C-24-36,C-36
+SRR11440664,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Control,No infection,24,T3,C-24-36,C-36
+SRR11440665,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,48,T3,Z-48-28,Z-28
+SRR11440666,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,48,T3,Z-48-28,Z-28
+SRR11440667,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,48,T3,Z-48-28,Z-28
+SRR11440668,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,24,T1,Z-24-36,Z-36
+SRR11440669,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,24,T1,Z-24-36,Z-36
+SRR11440670,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,24,T1,Z-24-36,Z-36
+SRR11440671,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,24,T1,Z-24-36,Z-36
+SRR11440672,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,48,T3,Z-48-36,Z-36
+SRR11440673,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,24,T2,Z-24-36,Z-36
+SRR11440674,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,24,T2,Z-24-36,Z-36
+SRR11440675,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,24,T2,Z-24-36,Z-36
+SRR11440676,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,24,T2,Z-24-36,Z-36
+SRR11440677,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,24,T3,Z-24-36,Z-36
+SRR11440678,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,24,T1,Z-24-36,Z-36
+SRR11440679,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,24,T1,C-24-20,C-20
+SRR11440680,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,24,T1,C-24-20,C-20
+SRR11440681,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,24,T1,C-24-20,C-20
+SRR11440682,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,24,T3,Z-24-36,Z-36
+SRR11440683,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,24,T2,C-24-20,C-20
+SRR11440684,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,24,T2,C-24-20,C-20
+SRR11440685,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,24,T2,C-24-20,C-20
+SRR11440686,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,24,T2,C-24-20,C-20
+SRR11440687,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,24,T3,C-24-20,C-20
+SRR11440688,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,24,T3,C-24-20,C-20
+SRR11440689,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,24,T3,C-24-20,C-20
+SRR11440690,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,24,T3,C-24-20,C-20
+SRR11440691,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,48,T1,C-48-20,C-20
+SRR11440692,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,48,T1,C-48-20,C-20
+SRR11440693,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,24,T1,Z-24-36,Z-36
+SRR11440694,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,48,T1,C-48-20,C-20
+SRR11440695,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,48,T1,C-48-20,C-20
+SRR11440696,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,48,T2,C-48-20,C-20
+SRR11440697,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,48,T2,C-48-20,C-20
+SRR11440698,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,48,T2,C-48-20,C-20
+SRR11440699,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,48,T2,C-48-20,C-20
+SRR11440700,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,48,T3,C-48-20,C-20
+SRR11440701,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,48,T3,C-48-20,C-20
+SRR11440702,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,48,T3,C-48-20,C-20
+SRR11440703,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,20,Control,No infection,48,T3,C-48-20,C-20
+SRR11440704,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,24,T3,Z-24-36,Z-36
+SRR11440705,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,24,T1,C-24-28,C-28
+SRR11440706,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,24,T1,C-24-28,C-28
+SRR11440707,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,24,T1,C-24-28,C-28
+SRR11440708,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,24,T1,C-24-28,C-28
+SRR11440709,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,24,T2,C-24-28,C-28
+SRR11440710,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,24,T2,C-24-28,C-28
+SRR11440711,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,24,T2,C-24-28,C-28
+SRR11440712,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,24,T2,C-24-28,C-28
+SRR11440713,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,24,T2,Z-24-28,Z-28
+SRR11440714,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,48,T2,Z-48-36,Z-36
+SRR11440715,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,24,T3,Z-24-28,Z-28
+SRR11440716,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,24,T3,Z-24-28,Z-28
+SRR11440717,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,24,T3,Z-24-28,Z-28
+SRR11440718,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,24,T3,Z-24-28,Z-28
+SRR11440719,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,48,T1,Z-48-28,Z-28
+SRR11440720,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,48,T1,Z-48-28,Z-28
+SRR11440721,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,48,T1,Z-48-28,Z-28
+SRR11440722,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,48,T1,Z-48-28,Z-28
+SRR11440723,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,48,T1,Z-48-28,Z-28
+SRR11440724,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,48,T2,Z-48-28,Z-28
+SRR11440725,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,48,T3,Z-48-36,Z-36
+SRR11440726,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,48,T2,Z-48-28,Z-28
+SRR11440727,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,48,T2,Z-48-28,Z-28
+SRR11440728,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Zika,Definite,48,T3,Z-48-28,Z-28
+SRR11440729,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,24,T3,C-24-28,C-28
+SRR11440730,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,24,T3,C-24-28,C-28
+SRR11440731,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,48,T1,Z-48-36,Z-36
+SRR11440732,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,24,T3,C-24-28,C-28
+SRR11440733,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,24,T3,C-24-28,C-28
+SRR11440734,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,48,T1,C-48-28,C-28
+SRR11440735,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,48,T1,C-48-28,C-28
+SRR11440736,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,48,T1,C-48-28,C-28
+SRR11440737,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,48,T1,C-48-28,C-28
+SRR11440738,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,48,T2,C-48-28,C-28
+SRR11440739,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,48,T2,C-48-28,C-28
+SRR11440740,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,48,T2,C-48-28,C-28
+SRR11440741,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,28,Control,No infection,48,T2,C-48-28,C-28
+SRR11440742,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,48,T1,Z-48-36,Z-36
+SRR11440743,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,48,T3,Z-48-36,Z-36
+SRR11440744,Mosquito,Midgut,RNA,10/20/20,"Chiapas, Mexico",Aedes aegypti,No,Female,4,36,Zika,Definite,48,T3,Z-48-36,Z-36
