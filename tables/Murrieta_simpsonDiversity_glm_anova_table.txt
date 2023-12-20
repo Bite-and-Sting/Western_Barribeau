@@ -1,0 +1,6 @@
+Table: ANOVA table for Simpson's diversity index
+
+|            | Df| Deviance| Resid. Df| Resid. Dev|    F| Pr(>F)|
+|:-----------|--:|--------:|---------:|----------:|----:|------:|
+|(Intercept) | NA|       NA|       146|     15.480|   NA|     NA|
+|temperature |  3|    0.164|       143|     15.316| 0.51|  0.676|

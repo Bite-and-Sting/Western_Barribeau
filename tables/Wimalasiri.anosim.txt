@@ -1,0 +1,66 @@
+> summary(anosim_infection)
+
+Call:
+anosim(x = scounts_dist, grouping = infection) 
+Dissimilarity: user supplied square matrix 
+
+ANOSIM statistic R: 0.1514 
+      Significance: 0.001 
+
+Permutation: free
+Number of permutations: 999
+
+Upper quantiles of permutations (null model):
+   90%    95%  97.5%    99% 
+0.0229 0.0358 0.0457 0.0544 
+
+Dissimilarity ranks between and within classes:
+            0%    25%    50%      75% 100%    N
+Between      8 673.75 1286.5 1852.500 2346 1188
+Control      3 427.00  920.0 1516.625 2177  630
+Chikungunya  1 664.50 1100.5 1781.625 2321  528
+
+> summary(anosim_time)
+
+Call:
+anosim(x = scounts_dist, grouping = meta$time) 
+Dissimilarity: user supplied square matrix 
+
+ANOSIM statistic R: 0.008962 
+      Significance: 0.225 
+
+Permutation: free
+Number of permutations: 999
+
+Upper quantiles of permutations (null model):
+   90%    95%  97.5%    99% 
+0.0227 0.0357 0.0485 0.0624 
+
+Dissimilarity ranks between and within classes:
+        0%   25%    50%     75% 100%    N
+Between  3 593.0 1206.5 1744.75 2346 1190
+3       15 507.5  946.0 1406.50 2305  595
+7        1 777.0 1535.0 1956.50 2344  561
+
+> summary(anosim_temperature)
+
+Call:
+anosim(x = scounts_dist, grouping = meta$temperature) 
+Dissimilarity: user supplied square matrix 
+
+ANOSIM statistic R: 0.01028 
+      Significance: 0.238 
+
+Permutation: free
+Number of permutations: 999
+
+Upper quantiles of permutations (null model):
+   90%    95%  97.5%    99% 
+0.0256 0.0366 0.0482 0.0631 
+
+Dissimilarity ranks between and within classes:
+          0%     25%     50%     75% 100%    N
+Between  2.0 607.375 1175.00 1759.00 2344 1586
+18      11.5 458.500  774.00 1498.50 2089  231
+28       1.0 431.125 1483.75 1884.75 2344  276
+32       3.0 835.000 1240.00 1870.00 2346  253

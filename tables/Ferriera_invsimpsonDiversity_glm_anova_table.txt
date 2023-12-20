@@ -1,0 +1,12 @@
+Table: ANOVA table for inverse Simpson's diversity index
+
+|                           | Df| Deviance| Resid. Df| Resid. Dev|      F| Pr(>F)|
+|:--------------------------|--:|--------:|---------:|----------:|------:|------:|
+|(Intercept)                | NA|       NA|       143|    291.222|     NA|     NA|
+|temperature                |  1|   22.800|       142|    268.423| 13.068|  0.000|
+|infection                  |  1|    6.373|       141|    262.050|  3.653|  0.058|
+|time                       |  1|   18.810|       140|    243.240| 10.781|  0.001|
+|temperature:infection      |  1|    0.203|       139|    243.037|  0.116|  0.733|
+|temperature:time           |  1|    0.035|       138|    243.001|  0.020|  0.887|
+|infection:time             |  1|    5.422|       137|    237.580|  3.107|  0.080|
+|temperature:infection:time |  1|    0.299|       136|    237.281|  0.171|  0.680|

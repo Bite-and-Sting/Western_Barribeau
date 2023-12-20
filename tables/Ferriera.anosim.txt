@@ -1,0 +1,67 @@
+> summary(anosim_infection)
+
+Call:
+anosim(x = scounts_dist, grouping = meta$infection) 
+Dissimilarity: user supplied square matrix 
+
+ANOSIM statistic R: 0.02303 
+      Significance: 0.024 
+
+Permutation: free
+Number of permutations: 999
+
+Upper quantiles of permutations (null model):
+   90%    95%  97.5%    99% 
+0.0122 0.0167 0.0226 0.0268 
+
+Dissimilarity ranks between and within classes:
+         0%    25%    50%      75%    100%    N
+Between 6.5 2668.5 5184.5 7785.000 10284.5 5184
+Control 1.0 2258.0 4919.5 8019.375 10296.0 2556
+Zika    6.5 2668.5 5218.5 7348.500 10233.5 2556
+
+> summary(anosim_time)
+
+Call:
+anosim(x = scounts_dist, grouping = meta$time) 
+Dissimilarity: user supplied square matrix 
+
+ANOSIM statistic R: 0.04944 
+      Significance: 0.003 
+
+Permutation: free
+Number of permutations: 999
+
+Upper quantiles of permutations (null model):
+   90%    95%  97.5%    99% 
+0.0131 0.0186 0.0230 0.0350 
+
+Dissimilarity ranks between and within classes:
+         0%      25%    50%  75%    100%    N
+Between 9.0 2701.500 5257.0 7846 10296.0 5184
+24      6.5 2662.625 5704.5 8141 10280.5 2556
+48      1.0 2258.000 4422.5 6983 10184.5 2556
+
+> summary(anosim_temperature)
+
+Call:
+anosim(x = scounts_dist, grouping = meta$temperature) 
+Dissimilarity: user supplied square matrix 
+
+ANOSIM statistic R: 0.2757 
+      Significance: 0.001 
+
+Permutation: free
+Number of permutations: 999
+
+Upper quantiles of permutations (null model):
+   90%    95%  97.5%    99% 
+0.0133 0.0196 0.0253 0.0309 
+
+Dissimilarity ranks between and within classes:
+        0%    25%    50%     75%  100%    N
+Between 20 3235.0 5784.0 8085.00 10296 6912
+20      16 2106.5 4919.5 7931.75 10162 1128
+28       9 2818.5 4919.5 7291.00 10241 1128
+36       1  778.0 1900.5 3735.50  9654 1128
+

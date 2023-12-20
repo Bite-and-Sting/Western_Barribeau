@@ -1,0 +1,7 @@
+Table: permANOVA table for Murrieta temperature
+
+|            |  Df| SumOfSqs|    R2|     F| Pr(>F)|
+|:-----------|---:|--------:|-----:|-----:|------:|
+|temperature |   3|    1.461| 0.052| 2.591|  0.016|
+|Residual    | 143|   26.881| 0.948|    NA|     NA|
+|Total       | 146|   28.343| 1.000|    NA|     NA|

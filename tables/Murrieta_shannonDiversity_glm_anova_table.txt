@@ -1,0 +1,6 @@
+Table: ANOVA table for Shannon's diversity index
+
+|            | Df| Deviance| Resid. Df| Resid. Dev|     F| Pr(>F)|
+|:-----------|--:|--------:|---------:|----------:|-----:|------:|
+|(Intercept) | NA|       NA|       146|    166.679|    NA|     NA|
+|temperature |  3|    2.425|       143|    164.255| 0.704|  0.551|
